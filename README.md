@@ -18,4 +18,4 @@ This project is a responsive website developed for a real-world business by gath
 - CSS  
 - JavaScript  
 
-## 📂 Project Structure
+
